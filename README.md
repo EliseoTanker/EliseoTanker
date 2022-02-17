@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **eliseotanker@gmail.com**
+- 📫 How to reach me on discord: [Eliseo#3899](https://discordapp.com/users/333307872739983371)
 
 <p align="left">
 </p>
