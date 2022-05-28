@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a nodejs [server to use the local valorant api](https://github.com/EliseoTanker/node-valorant-api)
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **plane**
 
 - 📫 How to reach me on discord: [Eliseo#3899](https://discordapp.com/users/333307872739983371)
 
