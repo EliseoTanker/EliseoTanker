@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Esileo</h1>
 <h3 align="center">:></h3>
 
-- 🔭 I’m currently working on a nodejs [server to use the local valorant api](https://github.com/EliseoTanker/node-valorant-api)
+- 🔭 I’m currently working on a pwa to use the VALORANT API [(Plane)](https://github.com/EliseoTanker/node-valorant-api)
 
-- 🌱 I’m currently learning **plane**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me on discord: [Eliseo#3899](https://discordapp.com/users/333307872739983371)
 
